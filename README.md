@@ -1,3 +1,5 @@
+# This program is learning for personal. Thanks for @wmnnd.
+
 # Boilerplate for nginx with Let’s Encrypt on docker-compose
 
 > This repository is accompanied by a [step-by-step guide on how to
