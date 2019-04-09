@@ -1,4 +1,4 @@
-# This program is learning for personal. Thanks for @wmnnd.
+Note: This program is learning for personal. Thanks for @wmnnd.
 
 # Boilerplate for nginx with Let’s Encrypt on docker-compose
 
